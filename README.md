@@ -1,2 +1,2 @@
 # Connect-Us
-real time Chat application with audio and vedio calling 
+Real time Chat application with Audio and Vedio calling 
